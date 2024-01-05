@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello! My name is Davy. He/Him Queer. I'm 31 and live in Minneapolis. 
 <!--
 **dumpd0me/dumpd0me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! My name is Davy.
